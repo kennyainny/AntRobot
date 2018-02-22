@@ -1,0 +1,17 @@
+****TWO TRAILS***
+
+needed changes
+get colors structs
+going in/out
+going charging
+everything
+
+9/2/2014
+new and hopefully close to final board, external charging circuit
+
+8/18/2014
+moved camera signature data to global scope. Storage space increased from 34,924 to 35,076 bytes
+
+
+10/7/2014
+swarm robotics
